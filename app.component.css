@@ -1,0 +1,10 @@
+#logo
+{
+ display: flex;
+align-items: left;
+justify-content: left; 
+}
+h5
+{
+  color : #000000;
+}
