@@ -1,5 +1,8 @@
 .logo
     {
-    font-size: 25px;
+    font-size: 30px;
     text-align: left;
+    color: white;
+    padding : 30px;
+    background-color: orange;
     }
